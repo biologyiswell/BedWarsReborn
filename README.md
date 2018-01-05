@@ -1,3 +1,3 @@
 # BedWarsReborn
 
-A no completed BedWars Minecraft Plugin project
+A non completed BedWars Minecraft Plugin project
